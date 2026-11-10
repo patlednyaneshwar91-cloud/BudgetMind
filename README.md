@@ -117,3 +117,29 @@ GitHub: [patlednyaneshwar91-cloud](https://github.com/patlednyaneshwar91-cloud)
 ## License
 
 License information will be added later.
+
+## 📸 Project Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.jpeg)
+
+### Transactions
+![Transactions](screenshots/transactions.jpeg)
+
+### Budgets
+![Budgets](screenshots/budgets.jpeg)
+
+### Savings Goals
+![Savings Goals](screenshots/savings-goals.jpeg)
+
+### Analytics
+![Analytics](screenshots/analytics.jpeg)
+
+### AI Insights
+![AI Insights](screenshots/ai-insights.jpeg)
+
+### Settings
+![Settings](screenshots/settings.jpeg)
+
+
+
